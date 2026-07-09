@@ -126,6 +126,6 @@ Apple-Product-Pricing-Analytics/
 
 ## 👤 Author
 Syed Ealham Hossain
-**Ealham Hossain**
+
 
 MBA | Business Analytics | Data Analytics | Python | SQL | Power BI
