@@ -32,16 +32,16 @@ The business wants to understand:
 ---
 
 ## 🛠️ Tech Stack
-
 - Python
 - Pandas
 - NumPy
 - Matplotlib
+- SQLite
+- SQL
 - Google Colab
 
 **Upcoming**
 
-- SQL
 - Power BI
 - GitHub Portfolio
 
