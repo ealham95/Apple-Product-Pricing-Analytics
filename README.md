@@ -40,9 +40,9 @@ The business wants to understand:
 - SQL
 - Google Colab
 
-**Upcoming**
 
-- Power BI
+
+
 - GitHub Portfolio
 
 ---
@@ -77,11 +77,9 @@ GitHub
 
 ↓
 
-SQL (Next Phase)
+SQL 
 
-↓
 
-Power BI Dashboard (Next Phase)
 
 ---
 
@@ -109,7 +107,7 @@ Apple-Product-Pricing-Analytics/
 
 ├── README.md
 
-└── (SQL & Power BI coming soon)
+└── SQL
 ```
 
 ---
